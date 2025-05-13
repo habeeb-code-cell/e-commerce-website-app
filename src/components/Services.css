@@ -1,0 +1,27 @@
+.services {
+    display: flex;
+    gap: 1rem;
+    margin: 2rem 0;
+  }
+  
+  .service {
+    flex: 1;
+    padding: 1rem;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    border-radius: 6px;
+  }
+  
+  .service.blue {
+    background-color: #007bff;
+  }
+  
+  .service.green {
+    background-color: #28a745;
+  }
+  
+  .service.red {
+    background-color: #dc3545;
+  }
+  

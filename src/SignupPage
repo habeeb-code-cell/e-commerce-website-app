@@ -1,0 +1,7 @@
+function SignupPage() {
+  return React.createElement('div', { className: 'signup-page' }, [
+    React.createElement('h2', {}, 'Signup Page Coming Soon')
+  ]);
+}
+
+export default SignupPage;
